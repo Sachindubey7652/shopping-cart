@@ -10,7 +10,7 @@ package cn.sachin.connection;
 	        if(connection == null){
 	            Class.forName("com.mysql.cj.jdbc.Driver");
 	            connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/ecommerce_cart","root","Hardest@321");
-	            System.out.print("connected");
+	           
 	        }
 	        return connection;
 	    }

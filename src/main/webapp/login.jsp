@@ -54,7 +54,7 @@
             </form>
         </div>
         <div class="card-footer bg-white">
-            <p class="text-center">Don't have an account? <a href="register.html">Register here</a></p>
+            <p class="text-center">Don't have an account? <a href="registration.jsp">Register here</a></p>
         </div>
     </div>
 </div>
